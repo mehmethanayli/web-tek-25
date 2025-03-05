@@ -1,0 +1,19 @@
+Çalışma Dizininde Git Bash Başlatılır.
+
+git init  -> Repo başlatılır. 
+	     Her proje için bir defa yazılır.
+
+git add * -> Çalışma dizinindeki dosyaları
+	     takip eder.
+
+git status -> Durum hakkında bilgi verir.
+
+git commit -m -> Projenin zaman tünelinde bir 
+		 nokta oluşturur. 
+
+git remote add origin https://github.com/mehmethanayli/web-tek-25.git  -> Local repoya, Github reposunun bilgisi eklenir.
+
+git remote -v -> Github bağlantısının bilgilerini gösterir.
+
+git push origin master -> Lokal repoyu, githuba gönderir.
+
