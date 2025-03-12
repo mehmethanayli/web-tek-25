@@ -15,5 +15,7 @@ git remote add origin https://github.com/mehmethanayli/web-tek-25.git  -> Local 
 
 git remote -v -> Github bağlantısının bilgilerini gösterir.
 
+git remote remove origin -> Eğer origin olarak eklenen github linki yanlış ise bu komut ile kaldırılabilir.
+
 git push origin master -> Lokal repoyu, githuba gönderir.
 
